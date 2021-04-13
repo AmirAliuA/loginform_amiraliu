@@ -9,13 +9,10 @@ Starti i programit:
 ![Fillimi](https://i.imgur.com/RAVnzvQ.png)
 
 Kur jepet fjalëkalimi gabim:
-![Fjalekalimi gabim]
-(https://i.imgur.com/qOclpra.png)
+![Fjalekalimi gabim](https://i.imgur.com/qOclpra.png)
 
 Dashboard i programit:
-![Dashboard]
-(https://i.imgur.com/y1VbMRx.png)
+![Dashboard](https://i.imgur.com/y1VbMRx.png)
 
 Data Fetch Usernames:
-![Data Fetch]
-(https://i.imgur.com/m3z6lzV.png)
+![Data Fetch](https://i.imgur.com/m3z6lzV.png)
