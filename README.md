@@ -1,5 +1,5 @@
 # loginform_amiraliu
-Tema e dhënë nga Lendrit Shala (Universum), gjatë trajnimit në Gjuhën Programuese C#, punuar nga unë.
+Tema e dhënë nga profesori i kolegjit Universum, gjatë trajnimit në Gjuhën Programuese C#, punuar nga unë.
 
 ## Problem
 Problemi me dizajnin e dataGridView osht qe skom mujt n'mënyrë automatike me lidhë database -> datagridview (problem Visual Studio), e veq i kom bo fetch data prej database n'dataGridView duke përdorur C#.
