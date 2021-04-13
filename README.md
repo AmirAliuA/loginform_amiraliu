@@ -6,6 +6,7 @@ Problemi me dizajnin e dataGridView osht qe skom mujt n'mënyrë automatike me l
 
 ## Screenshots
 Starti i programit:
+---
 ![Fillimi](https://i.imgur.com/RAVnzvQ.png)
 
 Kur jepet fjalëkalimi gabim:
